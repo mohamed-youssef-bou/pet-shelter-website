@@ -1,7 +1,4 @@
 # Pet Shelter Website Project
-
-Welcome to the Group 07 Pet Shelter Project Repository!
-
 ## Project Overview 
 
 The goal of this project is to create a website and an app to facilitate the pet adoption process for our local pet shelter. People can sign up and log in to post or look at pet postings. The option of applying to adopt a pet from a posting is also provided. The pet shelter itself can also post about the pets available on its premises as well as receive donations from the system's users.
